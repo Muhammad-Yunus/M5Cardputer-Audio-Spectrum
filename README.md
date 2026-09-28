@@ -70,8 +70,11 @@ A real‑time audio frequency spectrum analyzer for the **M5Stack Cardputer** ru
 
 ```
 M5Cardputer-Audio-Spectrum/
-└── src/
-    └── main.py   # Complete application (~700 lines)
+├── src/
+│   └── main.py          # Complete application (~700 lines)
+├── docs/
+│   └── banner.jpg       # Screenshot / banner image
+└── README.md
 ```
 
 ---
